@@ -1,0 +1,2 @@
+# LicenseReport
+ArcGIS License Report
